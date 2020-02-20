@@ -1,0 +1,17 @@
+.meme{
+    position: relative;
+    color: white;
+    width: 300px;
+}
+
+.topText{
+    position: absolute;
+    left: 50%;
+}
+
+.bottomText{
+    position: absolute;
+    text-align: center;
+    bottom: 0px;
+    left: 50%;
+}
